@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AASAP//III Congreso Internacional de Salud Publica//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:congreso-aasap-2026@aasap.org.ar
+DTSTAMP:20261116T120000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261202
+SUMMARY:III Congreso Internacional de Salud Pública (AASAP)
+DESCRIPTION:Derechos y Democracia para una reconstrucción de la Salud. Inscripción: http://congresoaasap.com.ar/
+LOCATION:Centro Universitario Rosario (CUR)\, Riobamba 150 bis\, Rosario
+URL:http://congresoaasap.com.ar/
+END:VEVENT
+END:VCALENDAR
